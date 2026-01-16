@@ -53,3 +53,6 @@ Conclusion
 The analysis shows clear, practical levers for improving performance: maintain higher availability, price competitively for your segment, focus on
 room type positioning, and leverage high‑demand locations. These findings support host coaching, demand forecasting, and pricing optimization.
 
+
+Adding more details 
+
